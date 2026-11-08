@@ -4,7 +4,7 @@
 
 This repository presents my research participation report on estimating solar photovoltaic (PV) output using plant operating records and weather data from the Korea Meteorological Administration (KMA).
 
-📄 **[Read the full report (PDF)](./POSTECH_Research_Report_English.pdf)**
+📄 **[Read the full report (PDF)](./POSTECH_Research_Report.pdf)**
 
 ## Overview
 
